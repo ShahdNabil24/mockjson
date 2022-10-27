@@ -1,0 +1,31 @@
+{
+"events":[
+{
+"id":1,
+"category":"animal welfare",
+"title":"cat adaption day",
+"location":"Meow town",
+"time": "12:00",
+"organizer": "Kat Laydee"
+},
+{
+"id":2,
+"category":"food",
+"title":"community gradening",
+"location":"Flora city",
+"time": "10:00",
+"organizer": "Fern Pollin"
+},
+{
+"id":3,
+"category":"sustainbility",
+"title":"peach cleanup",
+"location":"Playa Del Carmen",
+"time": "11:00",
+"organizer": "Carey Wales"
+}
+
+]
+
+
+}
